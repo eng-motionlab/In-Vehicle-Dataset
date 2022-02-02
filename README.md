@@ -4,6 +4,45 @@
 
 Dataset for human action recognition inside the vehicle with a focus on violence detection.
 
+<img src="https://github.com/eng-motionlab/In-Vehicle-Dataset/blob/main/dataset.png" width="400">
+
+# Labels
+Aggressive human-human interaction without objects
+| Scenario | Description |
+|----------|-------------|
+|C1        |Discussing - Pushing - Punching|
+|C2        |Dancing - Asking for a kiss - Refusing kiss - Slapping - Pulling/Pushing|
+|C3        |Arguing - Showing middle finger - Kicking - Strangling|
+|C4        |Arguing - Threathing to hit - Provoking - Slapping|
+
+Aggressive human-human interaction with objects
+| Scenario | Description |
+|----------|-------------|
+|C5        |Approaching - Stroking the hair - Touching body - Beating with purse|
+|C6        |Greeting - Showing phone - Threathning with scissor - Stealing wallet|
+|C7        |Arguing - Picking gun - Pointing gun - Punching with gun|
+|C8        |Arguing - Picking knife - Pointing knife|
+|C9        |Approaching - Threathning with knife - Touching body|
+|C10       |Playing with phone - Slap - Punching|
+|C11       |Sleeping - Drinking - Throwing bootle - Pushing|
+|C12       |Playing with phone - Looking on the phone - Pulling away - Pulling/Pushing|
+
+Non-aggressive human-human interaction without objects
+| Scenario | Description |
+|----------|-------------|
+|C13       |Arguing - Crying - Hugging|
+|C14       |Ask to take picture - Take picture - Show the picture|
+
+Non-aggressive human-human interaction with objects
+| Scenario | Description |
+|----------|-------------|
+|C15       |Applying lipstick - Fixing hair - Sleeping|
+|C16       |Sneezing - Picking tissue - Wiping nose - Read book|
+|C17       |Yawn - Stretching - Put headphones - Listen music - Dancing|
+|C18       |Eating - Drinking - Taking pictures|
+|C19       |Abswering call - Working computer - Coughing|
+|C20       |Writing - Apply alcohol gel|
+
 # License
 MIT License
 
